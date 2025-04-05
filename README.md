@@ -36,3 +36,13 @@
    - Para negócios: Melhorar produtos e serviços com base no feedback de clientes.
    - Para estratégias de marketing: Identificar o que está funcionando ou não em campanhas.
    - Para educação e pesquisa: Compreender nuances em discussões ou textos acadêmicos.
+  
+![img1](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_1.png)
+![img2](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_2.png)
+![img3](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_3.png)
+![img4](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_4.png)
+![img5](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_5.png)
+![img6](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_6.png)
+![img7](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_7.png)
+![img8](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_8.png)
+![img9](https://github.com/nisze/Analise-de-Sentimentos-com-AI/blob/main/imgs/Screenshot_9.png)
